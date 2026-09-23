@@ -1,4 +1,4 @@
-# Amazon India E-Commerce Sales Performance & Logistics Analysis
+# Amazon India E-Commerce Sales Performance Analysis
 
 ## Executive Overview
 This end-to-end business intelligence project analyzes retail operations and fulfillment efficiency for apparel sales on Amazon India. Using a Star Schema data architecture and interactive Power BI dashboards, the project diagnoses sales trends, product category contributions, and shipping fulfillment bottlenecks across ~14,000 orders totaling **₹7.86M** in gross revenue.
