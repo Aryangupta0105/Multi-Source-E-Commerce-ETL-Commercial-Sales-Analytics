@@ -8,7 +8,6 @@ This end-to-end business intelligence project analyzes retail operations and ful
 ---
 
 ## Dashboard Preview
-![Dashboard Overview](images/dashboard_overview.png)
 *(Place your exported dashboard screenshot in the `/images` folder)*
 
 ---
